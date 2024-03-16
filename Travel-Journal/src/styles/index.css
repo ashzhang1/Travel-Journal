@@ -1,0 +1,33 @@
+body {
+    font-family: "Inter", sans-serif;
+}
+
+.navbar {
+    display: flex;
+    background-color: rgb(245, 90, 90);
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+}
+
+.nav--logo {
+    height: 30px;
+    color: white;
+    margin-right: 5px;
+}
+
+.nav--title {
+    color: white;
+}
+
+.footer--container {
+    background-color: rgb(245, 90, 90);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 70px;
+}
+
+.footer--text {
+    color: white;
+}
