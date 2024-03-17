@@ -23,4 +23,4 @@ The Travel Journey Mini Project is not just a showcase of my growing React skill
 
 
 ## Screenshot
-![Uploading Screenshot 2024-03-17 at 12.03.13 pm.png…]()
+![Screenshot 2024-03-17 at 12 03 13 pm](https://github.com/ashzhang1/Travel-Journal/assets/80301189/e41c39b7-b67b-41bc-b9ff-d5a0f793516d)
