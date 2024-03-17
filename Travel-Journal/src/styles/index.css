@@ -96,3 +96,8 @@ body {
     margin-bottom: 5px;
 }
 
+.cards > div:not(:last-child) {
+    border-bottom: 1px solid #ccc; 
+    padding-bottom: 8px;
+    margin-bottom: 8px;
+  }

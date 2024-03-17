@@ -3,15 +3,21 @@ import './styles/index.css'
 import NavBar from "./components/Navbar"
 import Card from "./components/Card"
 import Footer from "./components/Footer"
+import data from "./data"
 
 function App() {
+  const cards = data.map((destination) => {
+        return (
+        <Card {...destination} />
+        )
+  })
+
+
   return (
     <div>
       <NavBar />
       <div className="cards">
-        <Card />
-        <Card />
-        <Card />
+        {cards}
       </div>
       <Footer />
     </div>
